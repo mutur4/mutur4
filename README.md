@@ -1,5 +1,5 @@
 #### Hello there 👋 (BinaryChunk) here 🤙
 
 
-> ⚡ Fun fact: _**No system or network is safe**_ 🏃‍♂️
+> ⚡ My name?I have had a few but you can call me root :)
 
