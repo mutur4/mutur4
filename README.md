@@ -1,8 +1,5 @@
-#### ===========[ @BinaryChunk here :) =============
+#### BinaryChunk
 
-
-> 
-> - [x] I use backspace(s) for indentation.
-> 
-> - [x] Information and Computer Security Enthusiast
-
+1. Information Security Researcher
+2. Red Team
+3. Vulnerability Research && Exploit Development
