@@ -2,4 +2,4 @@
 
 1. Information Security Researcher
 2. Red Team
-3. Vulnerability Research && Exploit Development
+3. Curious about Vulnerability Research && Exploit Development 🧮
