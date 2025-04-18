@@ -24,6 +24,6 @@
                :B#&@@@&###########BBBBBBBBB#####5              5@@@@@@@@@@@@@@@@@@@P                
                .B###############################5              .B@@@@@@@@@@@@@@@@@@@~               
 
-- [x] Security Research && Red Teamer
-- [x] Malware Development && Weird Machines
+- [x] Security Research | Offensive Security | Weird Machines 
+- [x] Malware (Offensive Tooling) Development -- sometimes :)
    
