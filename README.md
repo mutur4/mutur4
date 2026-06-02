@@ -25,5 +25,5 @@
                .B###############################5              .B@@@@@@@@@@@@@@@@@@@~               
 
 - [x] Security Research | Offensive Security | Weird Machines 
-- [x] Malware (Offensive Tooling) Development (When i'm free)
+- [x] Malware (Offensive Tooling) Development (when i want to pass time)
    
